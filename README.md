@@ -1,4 +1,4 @@
-## Best roblox tools
+# Best roblox tools
 
 - [x] - [Gen roblox accunt] - Finish.
 - [ ] - [BanTools] - In progress.
@@ -7,18 +7,18 @@
 
 
 
-# Roblox-Ban-tools
+## Roblox-Ban-tools
 Roblox-Ban-tools just enter nametag and wait...
 accuracy for ban is 50%
 
 
 
 
-# accunt gen
+## Account gen
 Accunt Gen select number and wait for generation(name\password\token)...
 Generation use selenium(Webdriver) is recomended use vpn
 
 
 
-# follow bot
-Roblox-Ban-tools
+## Follow bot
+A simple bot for follow account use your gen account
