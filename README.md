@@ -4,6 +4,7 @@
 - [ ] - [BanTools] - In progress.
 - [ ] - [Follow Bot] - In progress.
 - [ ] - [Token Loggin] - Not Started.
+- [ ] - [Multi Account Manager] - Not Started.
 
 
 
@@ -15,8 +16,10 @@ accuracy for ban is 50%
 
 
 ## Account gen
-Accunt Gen select number and wait for generation(name\password\token)...
+Accunt Gen select number and wait for generation(name\password\token).
 Generation use selenium(Webdriver) is recomended use vpn
+
+
 
 
 
