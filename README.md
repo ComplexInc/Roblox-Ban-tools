@@ -1,4 +1,4 @@
-##Best roblox tools
+## Best roblox tools
 
 - [x] - [Gen roblox accunt] - Finish.
 - [ ] - [BanTools] - In progress.
@@ -14,11 +14,11 @@ accuracy for ban is 50%
 
 
 
-#accunt gen
+# accunt gen
 Accunt Gen select number and wait for generation(name\password\token)...
 Generation use selenium(Webdriver) is recomended use vpn
 
 
 
-#follow bot
+# follow bot
 Roblox-Ban-tools
