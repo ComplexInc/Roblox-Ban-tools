@@ -1,6 +1,6 @@
 # Best roblox tools
 
-- [x] - [Gen roblox accunt] - Finish.
+- [x] - [Gen roblox account] - Finish.
 - [ ] - [BanTools] - In progress.
 - [ ] - [Follow Bot] - In progress.
 - [ ] - [Token Loggin] - Not Started.
